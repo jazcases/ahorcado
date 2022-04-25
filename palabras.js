@@ -1,0 +1,1 @@
+const words = ["PERRO", "GATO", "PAJARO", "ABUELO", "CONEJO", "FOCA", "MAIZ", "VACA", "BURRO"]
